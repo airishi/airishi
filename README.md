@@ -2,6 +2,8 @@
 Hello World!<br><br>
 I’m looking to collaborate on tudent projects involving backend, web development, or technology for community impact and companies like IBM, Azure, AWS<br><br> I’m looking for help with java backend development, SQL, APIs, and becoming a better developer<br><br>
 
+<img src="https://komarev.com/ghpvc/?username=airishi&label=Profile+Visits&color=2A2139&style=for-the-badge" alt="profile visits"/>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KRISTINA IRISH MARIE MATIGNAS) 
